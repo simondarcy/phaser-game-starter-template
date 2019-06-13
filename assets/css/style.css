@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background:#212121;
+    cursor: pointer;
+}
+canvas{
+    cursor: pointer!important;
+}
+
+html, body, div {
+   height: 100%; 
+}
+/* Add some tablet or desktop specific styles here here */
+@media (min-width: 600px) {}
